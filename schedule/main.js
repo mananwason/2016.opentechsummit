@@ -1,6 +1,6 @@
 (function() {
 
-  var dataUrl = 'https://raw.githubusercontent.com/OpenTechSummit/open-tech-scraper/master/out/sessions.json'
+  var dataUrl = 'https://raw.githubusercontent.com/OpenTechSummit/open-event-scraper/master/out/sessions.json'
 
   function clone(node) {
     var elem = node.cloneNode(true)
